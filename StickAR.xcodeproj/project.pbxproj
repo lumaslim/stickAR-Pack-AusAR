@@ -10,6 +10,23 @@
 		55EC1E9321B78FEC00A1293C /* StickAR StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 55EC1E9221B78FEC00A1293C /* StickAR StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		55EC1E9721B78FED00A1293C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1E9621B78FED00A1293C /* Stickers.xcstickers */; };
 		55EC1E9821B78FED00A1293C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1E9621B78FED00A1293C /* Stickers.xcstickers */; };
+		55EC1EA321B797EF00A1293C /* assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA221B797EF00A1293C /* assets.xcassets */; };
+		55EC1EB521B79F6E00A1293C /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA521B79F6E00A1293C /* Icon-App-76x76@2x.png */; };
+		55EC1EB621B79F6E00A1293C /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA621B79F6E00A1293C /* Icon-App-29x29@1x.png */; };
+		55EC1EB721B79F6E00A1293C /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA721B79F6E00A1293C /* Icon-App-40x40@1x.png */; };
+		55EC1EB821B79F6E00A1293C /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA821B79F6E00A1293C /* Icon-App-20x20@1x.png */; };
+		55EC1EB921B79F6E00A1293C /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EA921B79F6E00A1293C /* Icon-App-83.5x83.5@2x.png */; };
+		55EC1EBA21B79F6E00A1293C /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAA21B79F6E00A1293C /* Icon-App-20x20@3x.png */; };
+		55EC1EBB21B79F6E00A1293C /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAB21B79F6E00A1293C /* ItunesArtwork@2x.png */; };
+		55EC1EBC21B79F6E00A1293C /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAC21B79F6E00A1293C /* Contents.json */; };
+		55EC1EBD21B79F6E00A1293C /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAD21B79F6E00A1293C /* Icon-App-20x20@2x.png */; };
+		55EC1EBE21B79F6E00A1293C /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAE21B79F6E00A1293C /* Icon-App-29x29@3x.png */; };
+		55EC1EBF21B79F6E00A1293C /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EAF21B79F6E00A1293C /* Icon-App-40x40@2x.png */; };
+		55EC1EC021B79F6E00A1293C /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EB021B79F6E00A1293C /* Icon-App-60x60@3x.png */; };
+		55EC1EC121B79F6E00A1293C /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EB121B79F6E00A1293C /* Icon-App-60x60@2x.png */; };
+		55EC1EC221B79F6E00A1293C /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EB221B79F6E00A1293C /* Icon-App-76x76@1x.png */; };
+		55EC1EC321B79F6E00A1293C /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EB321B79F6E00A1293C /* Icon-App-40x40@3x.png */; };
+		55EC1EC421B79F6E00A1293C /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1EB421B79F6E00A1293C /* Icon-App-29x29@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,12 +57,31 @@
 		55EC1E8E21B78FEC00A1293C /* StickAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StickAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55EC1E9221B78FEC00A1293C /* StickAR StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "StickAR StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55EC1E9621B78FED00A1293C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "StickAR StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+		55EC1EA221B797EF00A1293C /* assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = assets.xcassets; sourceTree = "<group>"; };
+		55EC1EA521B79F6E00A1293C /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		55EC1EA621B79F6E00A1293C /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		55EC1EA721B79F6E00A1293C /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		55EC1EA821B79F6E00A1293C /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		55EC1EA921B79F6E00A1293C /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		55EC1EAA21B79F6E00A1293C /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		55EC1EAB21B79F6E00A1293C /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
+		55EC1EAC21B79F6E00A1293C /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		55EC1EAD21B79F6E00A1293C /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		55EC1EAE21B79F6E00A1293C /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		55EC1EAF21B79F6E00A1293C /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		55EC1EB021B79F6E00A1293C /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		55EC1EB121B79F6E00A1293C /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		55EC1EB221B79F6E00A1293C /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		55EC1EB321B79F6E00A1293C /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		55EC1EB421B79F6E00A1293C /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		55EC1E8721B78FEC00A1293C = {
 			isa = PBXGroup;
 			children = (
+				55EC1EA421B79F6E00A1293C /* AppIcon.appiconset */,
+				55EC1EA221B797EF00A1293C /* assets.xcassets */,
 				55EC1E9621B78FED00A1293C /* Stickers.xcstickers */,
 				55EC1E8F21B78FEC00A1293C /* Products */,
 			);
@@ -58,6 +94,29 @@
 				55EC1E9221B78FEC00A1293C /* StickAR StickerPackExtension.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		55EC1EA421B79F6E00A1293C /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				55EC1EA521B79F6E00A1293C /* Icon-App-76x76@2x.png */,
+				55EC1EA621B79F6E00A1293C /* Icon-App-29x29@1x.png */,
+				55EC1EA721B79F6E00A1293C /* Icon-App-40x40@1x.png */,
+				55EC1EA821B79F6E00A1293C /* Icon-App-20x20@1x.png */,
+				55EC1EA921B79F6E00A1293C /* Icon-App-83.5x83.5@2x.png */,
+				55EC1EAA21B79F6E00A1293C /* Icon-App-20x20@3x.png */,
+				55EC1EAB21B79F6E00A1293C /* ItunesArtwork@2x.png */,
+				55EC1EAC21B79F6E00A1293C /* Contents.json */,
+				55EC1EAD21B79F6E00A1293C /* Icon-App-20x20@2x.png */,
+				55EC1EAE21B79F6E00A1293C /* Icon-App-29x29@3x.png */,
+				55EC1EAF21B79F6E00A1293C /* Icon-App-40x40@2x.png */,
+				55EC1EB021B79F6E00A1293C /* Icon-App-60x60@3x.png */,
+				55EC1EB121B79F6E00A1293C /* Icon-App-60x60@2x.png */,
+				55EC1EB221B79F6E00A1293C /* Icon-App-76x76@1x.png */,
+				55EC1EB321B79F6E00A1293C /* Icon-App-40x40@3x.png */,
+				55EC1EB421B79F6E00A1293C /* Icon-App-29x29@2x.png */,
+			);
+			path = AppIcon.appiconset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,7 +194,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55EC1EB721B79F6E00A1293C /* Icon-App-40x40@1x.png in Resources */,
+				55EC1EB921B79F6E00A1293C /* Icon-App-83.5x83.5@2x.png in Resources */,
+				55EC1EA321B797EF00A1293C /* assets.xcassets in Resources */,
+				55EC1EBA21B79F6E00A1293C /* Icon-App-20x20@3x.png in Resources */,
 				55EC1E9821B78FED00A1293C /* Stickers.xcstickers in Resources */,
+				55EC1EBE21B79F6E00A1293C /* Icon-App-29x29@3x.png in Resources */,
+				55EC1EC121B79F6E00A1293C /* Icon-App-60x60@2x.png in Resources */,
+				55EC1EC221B79F6E00A1293C /* Icon-App-76x76@1x.png in Resources */,
+				55EC1EC421B79F6E00A1293C /* Icon-App-29x29@2x.png in Resources */,
+				55EC1EBC21B79F6E00A1293C /* Contents.json in Resources */,
+				55EC1EB521B79F6E00A1293C /* Icon-App-76x76@2x.png in Resources */,
+				55EC1EB621B79F6E00A1293C /* Icon-App-29x29@1x.png in Resources */,
+				55EC1EBD21B79F6E00A1293C /* Icon-App-20x20@2x.png in Resources */,
+				55EC1EB821B79F6E00A1293C /* Icon-App-20x20@1x.png in Resources */,
+				55EC1EC321B79F6E00A1293C /* Icon-App-40x40@3x.png in Resources */,
+				55EC1EC021B79F6E00A1293C /* Icon-App-60x60@3x.png in Resources */,
+				55EC1EBF21B79F6E00A1293C /* Icon-App-40x40@2x.png in Resources */,
+				55EC1EBB21B79F6E00A1293C /* ItunesArtwork@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
