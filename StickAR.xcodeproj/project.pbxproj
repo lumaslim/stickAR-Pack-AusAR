@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		559C011A21C12A93001AE006 /* LICENCE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 559C011921C12A93001AE006 /* LICENCE.txt */; };
 		55A047CF21B7D53B009FF4D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55A047CE21B7D53B009FF4D0 /* Assets.xcassets */; };
 		55EC1E9321B78FEC00A1293C /* StickAR StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 55EC1E9221B78FEC00A1293C /* StickAR StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		55EC1E9721B78FED00A1293C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 55EC1E9621B78FED00A1293C /* Stickers.xcstickers */; };
@@ -54,6 +55,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		559C011921C12A93001AE006 /* LICENCE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENCE.txt; sourceTree = "<group>"; };
 		55A047CE21B7D53B009FF4D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55EC1E8E21B78FEC00A1293C /* StickAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StickAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55EC1E9221B78FEC00A1293C /* StickAR StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "StickAR StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +82,7 @@
 		55EC1E8721B78FEC00A1293C = {
 			isa = PBXGroup;
 			children = (
+				559C011921C12A93001AE006 /* LICENCE.txt */,
 				55A047CE21B7D53B009FF4D0 /* Assets.xcassets */,
 				55EC1EA421B79F6E00A1293C /* AppIcon.appiconset */,
 				55EC1E9621B78FED00A1293C /* Stickers.xcstickers */,
@@ -209,6 +212,7 @@
 				55EC1EB821B79F6E00A1293C /* Icon-App-20x20@1x.png in Resources */,
 				55EC1EC321B79F6E00A1293C /* Icon-App-40x40@3x.png in Resources */,
 				55EC1EC021B79F6E00A1293C /* Icon-App-60x60@3x.png in Resources */,
+				559C011A21C12A93001AE006 /* LICENCE.txt in Resources */,
 				55EC1EBF21B79F6E00A1293C /* Icon-App-40x40@2x.png in Resources */,
 				55A047CF21B7D53B009FF4D0 /* Assets.xcassets in Resources */,
 				55EC1EBB21B79F6E00A1293C /* ItunesArtwork@2x.png in Resources */,
