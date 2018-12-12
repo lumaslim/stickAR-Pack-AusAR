@@ -1,6 +1,9 @@
 {
   "stickers" : [
     {
+      "filename" : "xmas-test.sticker"
+    },
+    {
       "filename" : "A-1.sticker"
     },
     {
@@ -28,9 +31,6 @@
       "filename" : "icon_83.5@2x-1.sticker"
     },
     {
-      "filename" : "xmas-test.sticker"
-    },
-    {
       "filename" : "oh hair.sticker"
     },
     {
@@ -38,6 +38,9 @@
     },
     {
       "filename" : "Sticker Sequence-2.stickersequence"
+    },
+    {
+      "filename" : "SeqXmasHair.stickersequence"
     }
   ],
   "info" : {

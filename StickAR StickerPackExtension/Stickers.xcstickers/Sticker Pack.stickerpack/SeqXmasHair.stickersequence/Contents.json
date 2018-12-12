@@ -1,6 +1,6 @@
 {
   "properties" : {
-    "duration" : 3,
+    "duration" : 7,
     "duration-type" : "fps",
     "repetitions" : 2
   },
@@ -13,13 +13,19 @@
       "filename" : "Stickers0.png"
     },
     {
+      "filename" : "Stickers0.png"
+    },
+    {
       "filename" : "Stickers1.png"
     },
     {
-      "filename" : "Stickers5.png"
+      "filename" : "Stickers2.png"
     },
     {
       "filename" : "Stickers3.png"
+    },
+    {
+      "filename" : "Stickers4.png"
     },
     {
       "filename" : "Stickers5.png"
