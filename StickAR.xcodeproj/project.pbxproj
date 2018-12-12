@@ -131,6 +131,7 @@
 			buildPhases = (
 				55EC1E8C21B78FEC00A1293C /* Resources */,
 				55EC1E9E21B78FED00A1293C /* Embed App Extensions */,
+				558E170821C1AE5800DCD26B /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -228,6 +229,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		558E170821C1AE5800DCD26B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\nbuildNumber=$(git rev-list --count HEAD)\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"$PRODUCT_SETTINGS_PATH\"\n# Use Build run script phase in project rather than bot. Xcode Server pre-integration hook in Xcode 10 no longer has access to the same environment variables and build resources? Changes in build steps.\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		55EC1E9521B78FEC00A1293C /* PBXTargetDependency */ = {
