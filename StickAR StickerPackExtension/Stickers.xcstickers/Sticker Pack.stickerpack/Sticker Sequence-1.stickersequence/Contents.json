@@ -1,0 +1,43 @@
+{
+  "properties" : {
+    "duration" : 3,
+    "duration-type" : "fps",
+    "repetitions" : 2
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "Stickers0.png"
+    },
+    {
+      "filename" : "Stickers.png"
+    },
+    {
+      "filename" : "Stickers1.png"
+    },
+    {
+      "filename" : "Stickers2.png"
+    },
+    {
+      "filename" : "frame.png"
+    },
+    {
+      "filename" : "frame.png"
+    },
+    {
+      "filename" : "Stickers3.png"
+    },
+    {
+      "filename" : "Stickers4.png"
+    },
+    {
+      "filename" : "Stickers5.png"
+    },
+    {
+      "filename" : "Stickers6.png"
+    }
+  ]
+}
